@@ -1,0 +1,9 @@
+C:\DEV\Sage\SRC.DLL\Sage.Core.Archive\2.0\testes\ApiDigitalArquive\obj\Debug\ApiDigitalArquive.csprojAssemblyReference.cache
+C:\DEV\Sage\SRC.DLL\Sage.Core.Archive\2.0\testes\ApiDigitalArquive\obj\Debug\ApiDigitalArquive.csproj.CoreCompileInputs.cache
+C:\DEV\Sage\SRC.DLL\Sage.Core.Archive\2.0\testes\ApiDigitalArquive\bin\Debug\ApiDigitalArquive.exe.config
+C:\DEV\Sage\SRC.DLL\Sage.Core.Archive\2.0\testes\ApiDigitalArquive\bin\Debug\ApiDigitalArquive.exe
+C:\DEV\Sage\SRC.DLL\Sage.Core.Archive\2.0\testes\ApiDigitalArquive\bin\Debug\ApiDigitalArquive.pdb
+C:\DEV\Sage\SRC.DLL\Sage.Core.Archive\2.0\testes\ApiDigitalArquive\bin\Debug\Sage.Core40.Archive.20.dll
+C:\DEV\Sage\SRC.DLL\Sage.Core.Archive\2.0\testes\ApiDigitalArquive\obj\Debug\ApiDigitalArquive.csproj.CopyComplete
+C:\DEV\Sage\SRC.DLL\Sage.Core.Archive\2.0\testes\ApiDigitalArquive\obj\Debug\ApiDigitalArquive.exe
+C:\DEV\Sage\SRC.DLL\Sage.Core.Archive\2.0\testes\ApiDigitalArquive\obj\Debug\ApiDigitalArquive.pdb
