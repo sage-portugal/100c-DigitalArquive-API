@@ -7,3 +7,12 @@ C:\DEV\Sage\SRC.DLL\Sage.Core.Archive\2.0\testes\ApiDigitalArquive\bin\Debug\Sag
 C:\DEV\Sage\SRC.DLL\Sage.Core.Archive\2.0\testes\ApiDigitalArquive\obj\Debug\ApiDigitalArquive.csproj.CopyComplete
 C:\DEV\Sage\SRC.DLL\Sage.Core.Archive\2.0\testes\ApiDigitalArquive\obj\Debug\ApiDigitalArquive.exe
 C:\DEV\Sage\SRC.DLL\Sage.Core.Archive\2.0\testes\ApiDigitalArquive\obj\Debug\ApiDigitalArquive.pdb
+C:\DEV\100c-DigitalArquive-API\bin\Debug\ApiDigitalArquive.exe.config
+C:\DEV\100c-DigitalArquive-API\bin\Debug\ApiDigitalArquive.exe
+C:\DEV\100c-DigitalArquive-API\bin\Debug\ApiDigitalArquive.pdb
+C:\DEV\100c-DigitalArquive-API\bin\Debug\Sage.Core40.Archive.20.dll
+C:\DEV\100c-DigitalArquive-API\obj\Debug\ApiDigitalArquive.csproj.AssemblyReference.cache
+C:\DEV\100c-DigitalArquive-API\obj\Debug\ApiDigitalArquive.csproj.CoreCompileInputs.cache
+C:\DEV\100c-DigitalArquive-API\obj\Debug\ApiDigit.315BD808.Up2Date
+C:\DEV\100c-DigitalArquive-API\obj\Debug\ApiDigitalArquive.exe
+C:\DEV\100c-DigitalArquive-API\obj\Debug\ApiDigitalArquive.pdb

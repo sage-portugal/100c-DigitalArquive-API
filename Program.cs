@@ -26,6 +26,7 @@ namespace ApiDigitalArquive
   
         // Arquive Data
         const string aDataFile = @"C:\Temp\test.jpg";
+        const Boolean IsFiscal = false; 
 
         // StoreID = Sigla da empresa (Necessário num cenário onde uma base de dados armazena arquivos digitais de várias empresas)
         const string CompanyID = "DEMO_1GCO";
@@ -84,7 +85,8 @@ namespace ApiDigitalArquive
                                                     CorrelationID,          // item Correlation ID
                                                     CorrelationDescription, // item Correlation Description
                                                     aDataFile,              // file name
-                                                    aDataFile               // original File Name
+                                                    aDataFile,              // original File Name
+                                                    IsFiscal                // is fiscal documnet
                                                     ));
         }
 
@@ -138,7 +140,8 @@ namespace ApiDigitalArquive
                                                     CorrelationID, 
                                                     CorrelationDescription, 
                                                     aDataFile, 
-                                                    aDataFile
+                                                    aDataFile,
+                                                    IsFiscal
                                                     ));
 
             // Remover informação de uma entidade especifica de um container (Ex.: Eliminar a informação do funcionário "00001" porque o funcionário foi eliminado)            
